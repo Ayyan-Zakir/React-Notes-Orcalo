@@ -1,0 +1,12 @@
+add a props in parent with function running on it.
+
+use that props in child 
+add data as  a parameter in that props ().
+you can add that in a function, which can run on click etc
+
+come to parent component and run another function on that props.
+
+add a parameter in that function
+
+and now the data is passed in that parameter
+you can use that parameter now in parent div where ever you want
